@@ -17,7 +17,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started 2 - by editing&nbsp;
+            Get started 3 - by editing&nbsp;
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
           <div>
